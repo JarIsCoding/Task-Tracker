@@ -1,0 +1,31 @@
+.middle{
+    padding-left: 125px;
+    padding-right: 125px;
+    height: 100vh;
+}
+.bg{
+    background-color: paleturquoise;
+}
+.bgsquare{
+    background-color:white;
+    border-radius: 20px;
+    height: 90vh;
+}
+.tasksquare{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    height: 15vh;
+}
+.tf{
+    font-size: 25px;
+}
+.twenty{
+    font-size: 20px;
+}
+.button{
+    width: 345px;
+
+}
+.headerpad{
+    padding-left: 120px;
+}
